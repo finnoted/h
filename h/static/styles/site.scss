@@ -41,8 +41,8 @@
 // This rule causes adverse effects in the admin and help pages, so it's
 // included here until we can tackle typography generally
 body {
-    @include typography.font-bold;
-    font-family: typography.$mono-font-family;
+    @include typography.font-normal;
+    font-family: typography.$sans-font-family;
 }
 
 .content {
