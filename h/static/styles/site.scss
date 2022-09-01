@@ -1,19 +1,15 @@
 // Hypothesis Main
 // ============================================================================
-
 // Core
 // ----------------------------------------------------------------------------
-
 @use 'core/reset';
 @use 'core/color';
 @use 'core/typography';
 @use 'core/layout';
 @use 'core/icons';
 @use 'core/utilities';
-
 // Components
 // ----------------------------------------------------------------------------
-
 @use 'components/api-token';
 @use 'components/annotation-card';
 @use 'components/brand';
@@ -40,17 +36,15 @@
 @use 'components/share-widget';
 @use 'components/tooltip';
 @use 'components/tabs';
-
 // Rules
 // ----------------------------------------------------------------------------
-
 // This rule causes adverse effects in the admin and help pages, so it's
 // included here until we can tackle typography generally
 body {
-  @include typography.font-normal;
-  font-family: typography.$sans-font-family;
+    @include typography.font-bold;
+    font-family: typography.$mono-font-family;
 }
 
 .content {
-  margin-bottom: 40px;
+    margin-bottom: 40px;
 }
