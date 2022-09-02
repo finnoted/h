@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="65" height="94" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M.608 94V.91h63.545v18.272H23.108v19.09h37v18.319h-37V94H.608Z" fill="#C1FC9C"/></svg>
+<svg width="24px" height="28px" viewBox="0 0 24 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect fill="#ffffff" stroke="none" width="17.14407" height="16.046612" x="3.8855932" y="3.9449153" />
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M.608 94V.91h63.545v18.272H23.108v19.09h37v18.319h-37V94H.608Z" id="Rectangle-2-Copy-17" fill="currentColor"></path>
+    </g>
+</svg>
